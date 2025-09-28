@@ -66,7 +66,7 @@ Para correr el script principal:
 python main.py
 python img_dicom_script.py # para el punto 9 del lab I
 ```
-
+No olvides ingresar a la carpeta donde esté el script necesario.
 ---
 
 ## ❌ 5. Desactivar el entorno virtual  
